@@ -3,4 +3,4 @@ package com.rasyidcode.consuming_rest;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
-public record Quote(String type, Value value) {}
+public record Value(Long id, String quote) {}
