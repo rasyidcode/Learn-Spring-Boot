@@ -1,0 +1,1 @@
+-- INSERT INTO Run (id, title, started_on, completed_on, miles, location) VALUES (1, 'Friday Morning Run', '2024-06-19T07:00:00', '2024-06-19T07:30:00', 5, 'OUTDOOR');
