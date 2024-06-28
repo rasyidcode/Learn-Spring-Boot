@@ -1,0 +1,99 @@
+{
+  "properties": [
+    {
+      "name": "user_db.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for user_db.datasource.url."
+    },
+    {
+      "name": "product_db.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for product_db.datasource.url."
+    },
+    {
+      "name": "jdbc.datasource.username",
+      "type": "java.lang.String",
+      "description": "Description for jdbc.datasource.username."
+    },
+    {
+      "name": "jdbc.datasource.password",
+      "type": "java.lang.String",
+      "description": "Description for jdbc.datasource.password."
+    },
+    {
+      "name": "jdbc.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for jdbc.datasource.driver-class-name."
+    },
+    {
+      "name": "hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.dialect."
+    },
+    {
+      "name": "hibernate.show_sql",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.show_sql."
+    },
+    {
+      "name": "hibernate.cache.use_second_level_cache",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.cache.use_second_level_cache."
+    },
+    {
+      "name": "hibernate.cache.use_query_cache",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.cache.use_query_cache."
+    },
+    {
+      "name": "hibernate.hbm2ddl.auto",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.hbm2ddl.auto."
+    },
+    {
+      "name": "student-db.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for student.datasource.url."
+    },
+    {
+      "name": "student-db.datasource.username",
+      "type": "java.lang.String",
+      "description": "Description for student.datasource.username."
+    },
+    {
+      "name": "student-db.datasource.password",
+      "type": "java.lang.String",
+      "description": "Description for student.datasource.password."
+    },
+    {
+      "name": "student-db.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for student.datasource.driver-class-name."
+    },
+    {
+      "name": "student-db.datasource.jdbc-url",
+      "type": "java.lang.String",
+      "description": "Description for student-db.datasource.jdbcUrl."
+    },
+    {
+      "name": "customer-db.datasource.jdbc-url",
+      "type": "java.lang.String",
+      "description": "Description for customer-db.datasource.jdbc-url."
+    },
+    {
+      "name": "customer-db.datasource.username",
+      "type": "java.lang.String",
+      "description": "Description for customer-db.datasource.username."
+    },
+    {
+      "name": "customer-db.datasource.password",
+      "type": "java.lang.String",
+      "description": "Description for customer-db.datasource.password."
+    },
+    {
+      "name": "customer-db.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for customer-db.datasource.driver-class-name."
+    }
+  ]
+}
